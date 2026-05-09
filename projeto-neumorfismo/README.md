@@ -3,10 +3,8 @@
 ## 📝 Descrição do Projeto
 Este projeto é uma ferramenta interativa...
 
-<!-- A IMAGEM ENTRA AQUI -->
-<p align="center">
-  <img src="preview-demo.png" width="600px">
-</p>
+![Interface do Gerador](imagem portifolio.png)
+![Interface do Gerador](portifolio2.png)
 
 ## 🚀 Tecnologias Utilizadas
 * JavaScript...
