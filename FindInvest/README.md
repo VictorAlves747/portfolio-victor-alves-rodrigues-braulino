@@ -25,6 +25,26 @@ O **FinEdu AI** é uma plataforma de gestão financeira pessoal que ajuda inicia
 * **Validação:** Zod
 * **IA:** OpenAI SDK (Integrado)
 
+----
+
+<div align="center">
+  <img src="LINK_DA_SUA_IMAGEM_AQUI" width="600px" />
+  <h1>💰 FinEdu AI</h1>
+  <p>Plataforma Full-stack de Gestão Financeira e Educação</p>
+  
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
+</div>
+
+---
+
+## 📸 Screenshots
+<p align="center">
+  <img src="LINK_DO_PRINT_1" width="45%" />
+  <img src="LINK_DO_PRINT_2" width="45%" />
+</p>
+
 ---
 
 ## 📁 Estrutura de Pastas
@@ -36,3 +56,4 @@ finedu-ai/
   ├── src/components/  # UI Components (Dashboards, Forms, Layout)
   ├── src/services/    # Lógica do Chatbot e Recomendações de IA
   └── src/lib/         # Utilitários, autenticação e validações
+  
