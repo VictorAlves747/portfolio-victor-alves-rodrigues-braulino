@@ -41,8 +41,9 @@ O **FinEdu AI** é uma plataforma de gestão financeira pessoal que ajuda inicia
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="LINK_DO_PRINT_1" width="45%" />
-  <img src="LINK_DO_PRINT_2" width="45%" />
+  <img src="<img width="1864" height="947" alt="Image" src="https://github.com/user-attachments/assets/8aced04c-dbcc-438e-abb6-3f23a9a52c4d" />" width="45%" />
+  <img src="<img width="1867" height="948" alt="Image" src="https://github.com/user-attachments/assets/bf2de9b6-fbf7-475d-8192-d7265c7c24d0" />
+" width="45%" />
 </p>
 
 ---
