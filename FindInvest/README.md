@@ -1,14 +1,4 @@
 
-<div align="center">
-  <img src="LINK_DA_SUA_IMAGEM_AQUI" width="600px" />
-  <h1>💰 FinEdu AI</h1>
-  <p>Plataforma Full-stack de Gestão Financeira e Educação</p>
-  
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
-</div>
-
 # 🚀 FinEdu AI - Gestão Financeira Local com IA
 
 > **Status:** Full-stack | Foco em Educação Financeira | Estudo Acadêmico (UNICID)
@@ -36,17 +26,6 @@ O **FinEdu AI** é uma plataforma de gestão financeira pessoal que ajuda inicia
 * **Validação:** Zod
 * **IA:** OpenAI SDK (Integrado)
 
-----
-
-
----
-
-## 📸 Screenshots
-<p align="center">
-  <img src="<img width="1864" height="947" alt="Image" src="https://github.com/user-attachments/assets/8aced04c-dbcc-438e-abb6-3f23a9a52c4d" />" width="45%" />
-  <img src="<img width="1867" height="948" alt="Image" src="https://github.com/user-attachments/assets/bf2de9b6-fbf7-475d-8192-d7265c7c24d0" />
-" width="45%" />
-</p>
 
 ---
 
