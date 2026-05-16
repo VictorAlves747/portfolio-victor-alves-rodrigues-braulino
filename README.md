@@ -53,7 +53,6 @@ Sou apaixonado por transformar ideias em soluções reais através da tecnologia
 ---
 
 ## 📂 Portfólio de Projetos 
-##🧠 Inteligência Artificial & Engenharia de Prompt
 
  #### 🖥️ Desenvolvimento & Design Ops
 | Projeto | Tecnologia Principal | Visualizar |
