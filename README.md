@@ -52,15 +52,20 @@ Sou apaixonado por transformar ideias em soluções reais através da tecnologia
 
 ---
 
-## 📂 Portfólio de Projetos
+## 📂 Portfólio de Projetos 
+##🧠 Inteligência Artificial & Engenharia de Prompt
 
+ #### 🖥️ Desenvolvimento & Design Ops
 | Projeto | Tecnologia Principal | Visualizar |
 | :--- | :---: | :--- |
-| **🎨 ModelColor v2.6** | `React` `Firebase` | [Explorar Projeto](./projeto-neumorfismo/) |
-| **⚔️ Batalha de Modelos** | `Prompt Engineering` | [Ver Comparativo](./batalha-de-modelos-ia/) |
+| **🎨 ModelColor v2.6** | `React` `Firebase` `Tailwind` | [Explorar Projeto](./projeto-neumorfismo/) |
+ #### 🧠 Inteligência Artificial & Engenharia de Prompt
+| Projeto | Tecnologia Principal | Visualizar |
+| :--- | :---: | :--- |
+| **🏎️ A Corrida do Prompt** | `Prompt Engineering` `Bloom/Fink` | [Ver Desafio](./corrida-do-prompt/) |
+| **⚔️ Batalha de Modelos** | `Prompt Engineering` `XML` | [Ver Comparativo](./batalha-de-modelos-ia/) |
 | **🔍 Engenharia Reversa** | `Ética` `Análise de IA` | [Ver Estudo](./engenharia-reversa-ia/) |
-| **🤖 Teachable Machine** | `IA / ML` | [Ver Atividade](./projeto-teachable-machine/) |
-| **🧱 Voxel Engine** | `Python` `Lógica Procedural` | [Ver Projeto](./projeto-minecraft/) |
+| **🤖 Teachable Machine** | `IA / ML` `TensorFlow` | [Ver Atividade](./projeto-teachable-machine/) |
 
 ---
 
