@@ -68,12 +68,13 @@ Sou apaixonado por transformar ideias em soluções reais através da tecnologia
 
 ---
 
-## 🏗 Estrutura do Repositório
-- `root/` → Apresentação principal
-- `/projeto-minecraft/` → Engine voxel estilo Minecraft e lógica procedural
-- `/projeto-neumorfismo/` → Ferramenta de design UI e cálculos CSS
-- `/backend-api/` → Estruturação de APIs e lógica de dados
-- `/database/` → Modelagem SQL e integração de banco de dados
+### 🏗 Estrutura do Repositório
+- `.github/`: Imagens, assets e fotos de perfil principais.
+- `projeto-neumorfismo/`: Código fonte e ecossistema do ModelColor v2.6.
+- `corrida-do-prompt/`: Relatório de evolução de imagens e metodologias de IA.
+- `batalha-de-modelos-ia/`: Estudo comparativo de LLMs utilizando estruturas XML.
+- `engenharia-reversa-ia/`: Reflexão analítica e diretrizes éticas sobre o uso de Gemini.
+- `projeto-teachable-machine/`: Treinamento de modelos de visão/voz no-code.
 
 ---
 
